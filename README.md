@@ -110,3 +110,64 @@
 
 </body>
 </html>
+<section>
+    <h2>Agro Forte: A Força do Brasil</h2>
+    <p>O Brasil é considerado uma potência agrícola mundial, responsável por alimentar milhões de pessoas dentro e fora do país. O conceito de <strong>Agro Forte</strong> representa não apenas a força produtiva do campo, mas também o compromisso com a sustentabilidade e a inovação.</p>
+    <p>Com mais de 60% do território nacional coberto por vegetação nativa, o Brasil possui uma das maiores biodiversidades do planeta. Isso coloca o país em posição estratégica para desenvolver práticas agrícolas que conciliem produção em larga escala com preservação ambiental.</p>
+</section>
+
+<section>
+    <h2>História e Evolução do Agro Brasileiro</h2>
+    <p>Desde o início da colonização, o Brasil tem sua economia ligada ao campo. A produção de café, cana-de-açúcar e soja moldou a história agrícola do país. Hoje, o agro brasileiro é altamente tecnológico e sustentável, com destaque para:</p>
+    <ul>
+        <li><strong>Plantio Direto:</strong> Técnica que mantém a cobertura vegetal no solo, reduzindo erosão e aumentando a fertilidade.</li>
+        <li><strong>ILPF (Integração Lavoura-Pecuária-Floresta):</strong> Sistema que recupera áreas degradadas e aumenta a produtividade.</li>
+        <li><strong>Bioinsumos:</strong> Uso de microrganismos e produtos naturais para substituir fertilizantes químicos.</li>
+        <li><strong>Agricultura Digital:</strong> Aplicação de drones, sensores e softwares para monitorar plantações em tempo real.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Impactos Sociais e Econômicos</h2>
+    <p>O Agro Forte não é apenas uma questão de produção, mas também de impacto social e econômico. O setor gera milhões de empregos diretos e indiretos, movimenta a economia e garante segurança alimentar para a população.</p>
+    <div class="destaque">
+        <p><strong>Dados relevantes:</strong> O Brasil é o maior exportador mundial de soja, café, carne bovina e frango, consolidando sua posição como líder global na produção de alimentos.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Agro Sustentável: O Futuro</h2>
+    <p>O futuro do agro brasileiro está diretamente ligado à sustentabilidade. A adoção de práticas responsáveis garante não apenas a preservação ambiental, mas também a competitividade internacional. O mundo exige alimentos produzidos com rastreabilidade, certificação e baixo impacto ambiental, e o Brasil está preparado para atender essa demanda.</p>
+    <p>Com investimentos em <strong>bioeconomia</strong>, <strong>energias renováveis</strong> e <strong>educação rural</strong>, o país pode se consolidar como líder global em produção sustentável.</p>
+</section>
+<section>
+    <h2>Agro Forte: Sustentabilidade e Inovação no Brasil</h2>
+    <p>O conceito de <strong>Agro Forte</strong> vai além da produção em larga escala. Ele representa a união entre tradição, inovação e responsabilidade ambiental. O Brasil, como potência agrícola mundial, tem o desafio de manter sua competitividade internacional sem abrir mão da preservação dos recursos naturais.</p>
+    <p>Atualmente, o país é líder em exportação de soja, café, carne bovina e frango, mas também se destaca por práticas sustentáveis que reduzem impactos ambientais e aumentam a eficiência produtiva.</p>
+</section>
+
+<section>
+    <h2>Iniciativas Sustentáveis no Agro Brasileiro</h2>
+    <p>O Brasil tem investido em programas e tecnologias que fortalecem o agro sustentável:</p>
+    <ul>
+        <li><strong>ILPF (Integração Lavoura-Pecuária-Floresta):</strong> sistema que recupera áreas degradadas e promove equilíbrio entre produção e preservação.</li>
+        <li><strong>Plantio Direto:</strong> técnica que mantém a cobertura vegetal no solo, reduzindo erosão e aumentando a fertilidade.</li>
+        <li><strong>Bioinsumos:</strong> substituição de fertilizantes químicos por microrganismos e produtos naturais.</li>
+        <li><strong>Agricultura Digital:</strong> uso de drones, sensores e softwares para monitorar plantações em tempo real.</li>
+        <li><strong>Energia Renovável:</strong> adoção de energia solar, biogás e etanol para reduzir a pegada de carbono.</li>
+    </ul>
+</section>
+
+<section>
+    <h2>Impactos Sociais e Econômicos</h2>
+    <p>O Agro Forte é responsável por milhões de empregos diretos e indiretos, além de garantir segurança alimentar para a população. O setor movimenta a economia nacional e contribui para o desenvolvimento regional.</p>
+    <div class="destaque">
+        <p><strong>Dado relevante:</strong> Mais de 25% do PIB brasileiro está ligado ao agronegócio, consolidando o setor como motor da economia.</p>
+    </div>
+</section>
+
+<section>
+    <h2>Agro Sustentável: Caminhos para o Futuro</h2>
+    <p>O futuro do agro brasileiro depende da adoção de práticas cada vez mais sustentáveis. O mundo exige alimentos produzidos com rastreabilidade, certificação e baixo impacto ambiental, e o Brasil está preparado para atender essa demanda.</p>
+    <p>Investimentos em <strong>bioeconomia</strong>, <strong>educação rural</strong> e <strong>tecnologias limpas</strong> são fundamentais para consolidar o país como líder global em produção sustentável.</p>
+</section>
