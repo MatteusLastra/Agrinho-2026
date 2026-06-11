@@ -148,7 +148,7 @@
 </section>
 <!-- Imagem no final -->
 <div class="imagem">
-    <img src="[https://github.com/MatteusLastra/Projeto-Agrinho-2025/raw/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2010_46_18.png" alt="Imagem Futuro Sustentável" width="520](https://github.com/MatteusLastra/Agrinho-2026/edit/main/Copilot_20260611_102358.png)">
+    <img src="Copilot_20260611_102358.png">
     <p><em>Imagem gerada por IA com o tema: Futuro Sustentável no Campo</em></p>
 </div>
 
