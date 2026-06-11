@@ -146,6 +146,11 @@
     <p>O conceito de <strong>Agro Forte</strong> vai além da produção em larga escala. Ele representa a união entre tradição, inovação e responsabilidade ambiental. O Brasil, como potência agrícola mundial, tem o desafio de manter sua competitividade internacional sem abrir mão da preservação dos recursos naturais.</p>
     <p>Atualmente, o país é líder em exportação de soja, café, carne bovina e frango, mas também se destaca por práticas sustentáveis que reduzem impactos ambientais e aumentam a eficiência produtiva.</p>
 </section>
+<!-- Imagem no final -->
+<div class="imagem">
+    <img src="[https://github.com/MatteusLastra/Projeto-Agrinho-2025/raw/main/ChatGPT%20Image%2017%20de%20jun.%20de%202025%2C%2010_46_18.png" alt="Imagem Futuro Sustentável" width="520](https://github.com/MatteusLastra/Agrinho-2026/edit/main/Copilot_20260611_102358.png)">
+    <p><em>Imagem gerada por IA com o tema: Futuro Sustentável no Campo</em></p>
+</div>
 
 <section>
     <h2>Iniciativas Sustentáveis no Agro Brasileiro</h2>
