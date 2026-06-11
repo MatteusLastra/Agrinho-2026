@@ -141,6 +141,7 @@
     <p>Com investimentos em <strong>bioeconomia</strong>, <strong>energias renováveis</strong> e <strong>educação rural</strong>, o país pode se consolidar como líder global em produção sustentável.</p>
 </section>
 <section>
+    <div Copilot_20260611_102358="imagem">
     <h2>Agro Forte: Sustentabilidade e Inovação no Brasil</h2>
     <p>O conceito de <strong>Agro Forte</strong> vai além da produção em larga escala. Ele representa a união entre tradição, inovação e responsabilidade ambiental. O Brasil, como potência agrícola mundial, tem o desafio de manter sua competitividade internacional sem abrir mão da preservação dos recursos naturais.</p>
     <p>Atualmente, o país é líder em exportação de soja, café, carne bovina e frango, mas também se destaca por práticas sustentáveis que reduzem impactos ambientais e aumentam a eficiência produtiva.</p>
